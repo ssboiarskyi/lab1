@@ -8,7 +8,7 @@ int main()
     double L, D;
     const double pi = 3.14;
     // введення змінної
-    cout << "Введіть L: ";
+    cout << "Введіть довжину кола L: ";
     cin >> L;
     // розрахунок результату
     D = L / pi;
