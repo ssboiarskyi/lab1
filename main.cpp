@@ -5,7 +5,7 @@ int main()
 {
     // задача Begin15
     // декларація змінних
-    double A, B, C, temp;
+    float A, B, C, temp;
     // введення змінних
     cout << "Введіть A: ";
     cin >> A;
@@ -25,7 +25,7 @@ int main()
 
     // задача Begin26
     // декларація змінних
-    double V, U, T1, T2, S;
+    float V, U, T1, T2, S;
     // введення змінних
     cout << "Введіть V (швидкість човна у стоячій воді): ";
     cin >> V;
@@ -42,8 +42,8 @@ int main()
 
     // задача Begin36
     // декларація змінних
-    double L, D;
-    const double pi = 3.14;
+    float L, D;
+    const float pi = 3.14;
     // введення змінної
     cout << "Введіть довжину кола L: ";
     cin >> L;
